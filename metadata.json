@@ -1,0 +1,7 @@
+{
+  "name": "AI Daily Pulse",
+  "description": "每日更新 20 条 AI 热门新闻，提供智能深度解读、语音播报及实时语音互动功能。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

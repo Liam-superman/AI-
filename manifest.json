@@ -1,0 +1,15 @@
+{
+  "short_name": "AI日报",
+  "name": "AI Daily Pulse",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1698/1698535.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f3f4f6"
+}
